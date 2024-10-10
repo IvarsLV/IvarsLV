@@ -12,6 +12,9 @@ I'm a passionate beginner developer with a focus on automation, scripting, and w
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/ivars-plisko-544158207/)
 - [Email](mailto:ivars.plisko@gmail.com)
+  
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivarslv&show_icons=true&theme=radical)
 
 Feel free to connect with me or check out my repositories!
 
