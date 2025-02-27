@@ -5,7 +5,7 @@ I'm a passionate beginner developer with a focus on automation, scripting, and w
 
 ## 🚀 Skills & Technologies
 - **Programming Languages**: Python, HTML, CSS, JavaScript
-- **Frameworks**: Django, Flask
+- **Frameworks**: Django, Flask, FastApi, Nuxt JS, Astro
 - **Tools**: Git, GitHub, Docker
 - **Databases**: SQLite, PostgreSQL
 
